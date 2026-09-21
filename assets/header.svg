@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse"><stop stop-color="#101B2C"/><stop offset="1" stop-color="#080E18"/></linearGradient>
+    <linearGradient id="accent" x1="54" y1="0" x2="1146" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#50E3C2"/><stop offset="1" stop-color="#5B8CFF"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#8394B0" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+  <rect x="54" y="48" width="36" height="4" rx="2" fill="#50E3C2"/>
+  <text x="105" y="56" fill="#A4B6CD" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">HIAGOD / SOFTWARE DEVELOPER</text>
+  <text x="54" y="135" fill="#F3F7FC" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Software that connects.</text>
+  <text x="54" y="200" fill="#50E3C2" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Automation that delivers.</text>
+  <text x="57" y="246" fill="#B0BED1" font-family="Arial,Helvetica,sans-serif" font-size="19">Web applications, telecom systems &amp; operational tools.</text>
+  <path d="M57 279H723" stroke="#253349"/>
+  <text x="57" y="317" fill="#D5DFED" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.5">FULL STACK</text>
+  <circle cx="177" cy="312" r="2" fill="#50E3C2"/>
+  <text x="195" y="317" fill="#D5DFED" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.5">INTEGRATIONS</text>
+  <circle cx="345" cy="312" r="2" fill="#50E3C2"/>
+  <text x="363" y="317" fill="#D5DFED" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.5">TELECOM</text>
+  <g stroke="#334D6B" stroke-width="2"><path d="M944 104V157M944 223V276M839 190H911M977 190H1052"/><path d="M860 109L920 166M968 214L1027 272M1027 109L968 166M920 214L860 272" stroke-dasharray="4 7"/></g>
+  <circle cx="944" cy="190" r="105" stroke="#27415B" stroke-dasharray="3 9"/>
+  <rect x="903" y="149" width="82" height="82" rx="22" fill="#132B35" stroke="#50E3C2" stroke-width="2"/>
+  <path d="M932 177L919 190L932 203M956 177L969 190L956 203M948 174L940 206" stroke="#50E3C2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#13243A" stroke="#5B8CFF"><rect x="924" y="65" width="40" height="40" rx="12"/><rect x="924" y="275" width="40" height="40" rx="12"/><rect x="800" y="170" width="40" height="40" rx="12"/><rect x="1051" y="170" width="40" height="40" rx="12"/></g>
+  <g fill="#88ACFF"><circle cx="944" cy="85" r="5"/><circle cx="944" cy="295" r="5"/><circle cx="820" cy="190" r="5"/><circle cx="1071" cy="190" r="5"/></g>
+  <path d="M54 360H1146" stroke="url(#accent)" stroke-width="2"/>
+</svg>
